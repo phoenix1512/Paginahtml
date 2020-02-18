@@ -1,0 +1,3 @@
+# Paginahtml
+tarea github
+PRADIGMAS DE PROGRAMACION 6TO SEMESTRE
